@@ -1,0 +1,25 @@
+* {
+    background-color: bisque;
+}
+
+.div1 {
+    margin: 20px;
+    border: 9px solid brown;
+    border-radius: 5px ;
+    text-align: center;
+
+}
+
+.div2 {
+    margin: 20px;
+    border: 9px solid brown;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.div3 {
+    margin: 20px;
+    border: 9px solid brown;
+    border-radius: 5px;
+    text-align: center;
+}
